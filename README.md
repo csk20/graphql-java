@@ -10,6 +10,7 @@ This is a [GraphQL](https://github.com/facebook/graphql) Java implementation.
 [![Latest Dev Build](https://api.bintray.com/packages/andimarek/graphql-java/graphql-java/images/download.svg)](https://bintray.com/andimarek/graphql-java/graphql-java/_latestVersion)
 
 
+https://www.baeldung.com/spring-graphql
 ### Documentation
 
 We have a tutorial for beginners: [Getting started with GraphQL Java and Spring Boot](https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/)
